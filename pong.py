@@ -3,7 +3,7 @@
 import turtle
 
 window = turtle.Screen()
-window.title("pong by tokyoedtdch zrobione przez grubasa")
+window.title("pong game")
 window.bgcolor("black")  # gbcolor - background color / kolor tła
 window.setup(width=800, height=600)  # ustala wielkosc ekranu na 800x600
 window.tracer(0)  # stop automaticly update window, przyspiesza nasza gierke
